@@ -1,6 +1,7 @@
 # IEat
 ### Ссылка на прототип:
 
+https://i-eat-app.netlify.app/
 
 ## Preview
 
