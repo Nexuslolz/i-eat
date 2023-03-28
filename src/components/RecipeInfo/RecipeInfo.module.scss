@@ -16,7 +16,6 @@
         @media(max-width: $mobile-width) {
             margin-bottom: 1em;
             max-width: 380px;
-            padding-bottom: 2em;
         }
 
         @media(max-width: 500px) {
@@ -249,6 +248,7 @@
 
     @media(max-width: $mobile-width) {
         flex-direction: column;
+        gap: 2em;
     }
 }
 

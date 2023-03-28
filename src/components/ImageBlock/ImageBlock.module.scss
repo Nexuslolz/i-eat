@@ -48,6 +48,7 @@
         @media(max-width:$tablet-width) {
             width: 63%;
             overflow-y: scroll;
+            padding-right: 15px;
 
             &::-webkit-scrollbar {
                 width: 0.2em;
