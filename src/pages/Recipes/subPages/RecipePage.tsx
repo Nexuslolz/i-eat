@@ -1,6 +1,6 @@
 import { useEffect, useState, useMemo } from 'react'
 import { useParams } from 'react-router-dom'
-import RecipeService from '../../../components/API/RecipeService'
+import RecipeService from '../../../API/RecipeService'
 import { useFetching } from '../../../hooks/useFetching'
 import Loader from '../../../components/Loader/Loader'
 import { IRecipeInfo } from '../../../types/types'
