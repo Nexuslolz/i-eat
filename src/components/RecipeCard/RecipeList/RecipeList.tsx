@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState, useMemo } from 'react'
 import { IRecipesData } from '../../../types/types'
-import RecipeService from '../../API/RecipeService'
+import RecipeService from '../../../API/RecipeService'
 import { useFetching } from '../../../hooks/useFetching'
 import Loader from '../../Loader/Loader'
 import RecipeFilter from '../../RecipeFilter/RecipeFilter'
